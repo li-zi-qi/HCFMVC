@@ -22,14 +22,6 @@ run train.py for training HCFMVC
 
 ------
 
-## Datasets
-
-[Click here](https://pan.baidu.com/s/1eW8cbM3d649rRizaEzH_MA) to access all datasets.
-
-Key: HwCF
-
-------
-
 ## Experiment Results
 
 We compare our proposed HCFMVC with 11 state-of-the-art multi-view clustering methods:
